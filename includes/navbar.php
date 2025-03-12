@@ -5,7 +5,7 @@ session_start();
 <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
     <div class="container-fluid">
         <a class="navbar-brand fw-bold" href="index.php"></a>
-            <img src="../assets/img/panda.png" alt="Panda Logo" style="height: 60px; margin-right: 10px;">
+            <img src="./assets/img/panda.png" alt="Panda Logo" style="height: 60px; margin-right: 10px;">
             Panda Auth
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
